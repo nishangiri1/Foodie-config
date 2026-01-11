@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/restaurantdb
     username: user
-    password: user123
+    password: "{cipher}ec96c05466213eafc804842eaf1d7832afe6b706341fa25f2074cf7573743757"
     driver-class-name: org.postgresql.Driver
 
   jpa:
