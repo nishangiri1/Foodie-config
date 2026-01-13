@@ -39,5 +39,5 @@ management:
 info:
   app:
     name: Food service prod
-    description: food service of foodie prod
+    description: food service of foodie prod rc
     version: "1.0V prod"
