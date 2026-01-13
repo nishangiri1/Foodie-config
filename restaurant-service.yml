@@ -28,6 +28,12 @@ management:
 server:
   port: 9091
 
+info:
+  app:
+    name: Restaurant service
+    description: restaurant service of foodie 
+    version: "1.0V"
+
 
 
 eureka:
